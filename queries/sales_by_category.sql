@@ -1,0 +1,1 @@
+-- SQL query to get sales by category
